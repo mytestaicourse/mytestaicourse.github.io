@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
     var pwaNoCache = false; //Requires server and HTTPS/SSL. Will clear cache with each visit
     
     //Setting Service Worker Locations scope = folder | location = service worker js location
-    var pwaScope = "/";
-    var pwaLocation = "/_service-worker.js";
+    var pwaScope = "https://sepantou.net/";
+    var pwaLocation = "https://sepantou.net/_service-worker.js";
     
     //Place all your custom Javascript functions and plugin calls below this line
     function init_template(){
