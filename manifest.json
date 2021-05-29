@@ -1,0 +1,19 @@
+{
+  "dir": "ltr",
+  "lang": "en-US",
+  "name": "test website",
+  "short_name": "test website",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "https://sepantou.net/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "website for testing.",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [],
+  "url": "https://sepantou.net",
+  "generated": true,
+  "screenshots": []
+}
